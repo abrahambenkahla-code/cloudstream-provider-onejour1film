@@ -19,9 +19,7 @@
       "package": "com.example.cloudstream.providers.onejour1film",
       "version": 1,
       "url": "https://raw.githubusercontent.com/abrahambenkahla-code/cloudstream-provider-onejour1film/main/provider/OneJour1FilmProvider.kt"
-    }
-  ]
-}
+
 
       "shortCode": "afbk"
     }
