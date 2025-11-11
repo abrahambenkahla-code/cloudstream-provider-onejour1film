@@ -13,3 +13,17 @@
     }
   ]
 }
+{
+  "name": "Abraham Benkahla Providers",
+  "description": "CloudStream metadata-only extension for 1jour1film.",
+  "manifestVersion": 1,
+  "pluginList": [
+    {
+      "name": "1Jour1Film (metadata only)",
+      "description": "Shows public metadata from 1jour1film1125.site (no streaming links).",
+      "package": "com.example.cloudstream.providers.onejour1film",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/abrahambenkahla-code/cloudstream-provider-onejour1film/main/provider/OneJour1FilmProvider.kt"
+    }
+  ]
+}
